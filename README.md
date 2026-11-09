@@ -1,7 +1,7 @@
 # projects
 [flynk-id](https://github.com/kontumloxo/flynk-id.git)  
-\amazing-id [https://github.com/vietphan1995/amazing.git](https://github.com/vietphan1995/amazing.git)
-\athena [https://github.com/vietphan1995/athena.git](https://github.com/vietphan1995/athena.git)
+amazing-id [https://github.com/vietphan1995/amazing.git](https://github.com/vietphan1995/amazing.git)  
+athena [https://github.com/vietphan1995/athena.git](https://github.com/vietphan1995/athena.git)
 avatar [https://github.com/vietphan1995/avatar.git](https://github.com/vietphan1995/avatar.git)
 avicci [https://github.com/vietphan1995/avicci-light.git](https://github.com/vietphan1995/avicci-light.git)
 b-sign [https://github.com/vietphan1995/b-sign.git](https://github.com/vietphan1995/b-sign.git)
