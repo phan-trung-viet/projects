@@ -1,4 +1,6 @@
 # projects
+bit.ly/phan-trung-viet  
+bit.ly/cong-an-viec-lam  
 [flynk-id](https://github.com/kontumloxo/flynk-id.git)  
 amazing-id [https://github.com/vietphan1995/amazing.git](https://github.com/vietphan1995/amazing.git)  
 athena [https://github.com/vietphan1995/athena.git](https://github.com/vietphan1995/athena.git)  
